@@ -1,10 +1,16 @@
-##Eduardo José Lima Soares
+## Eduardo José Lima Soares
+
 eduardolimasoares@gmail.com
+
 Casado
+
 Bairro Nazaré, Belém, PA +55 (91) 9 8395-0052
-Perfil Pessoal:
+
+### Perfil Pessoal:
 - Confiante em minha capacidade de apresentar soluções em TI. Extremamente comprometido e motivado com o trabalho. Sempre estudando novas tecnologias e técnicas de organização, gestão, estudo e metodologias ágeis. Assíduo e organizado.
-Experiência:
+
+### Experiência:
+
 2019 - Cedaspy Ensino profissional.
 - Instrutor de ensino de TI, programação, manutenção de microcomputadores, marketing, marketing pessoal, administração financeira e design gráfico.
 - Função: Criar Aulas, apostilas, cursos, apresentações e palestras. Organizar turmas, ligar para alunos, ministrar aulas, cursos e palestras.
@@ -26,11 +32,13 @@ Experiência:
 2010 - CI9 Publicidade.
 - Design Gráfico e Design web.
 - Função: Criação de artes gráficas e digitais. - Belém PA,
- 
- 1999 - Manga propaganda e Marketing
+1999 - Manga propaganda e Marketing
 - Editor de Vídeo, Analista Marketing e Design gráfico e web. - Belém PA.
+
 Formação Acadêmica:
-- Graduação em Ciência de Dados - Uninassau - Cursando
+
+- Graduação em Ciência de Dados - Uninassau
+
 Habilidades:
 - Redes e servidores VPS, acesso remoto via software e terminal. - Manutenção e montagem de computadores.
 - Design gráfico, e edição de áudio e vídeo.
@@ -47,12 +55,14 @@ Habilidades:
 - Análise de dados, raspagem de dados (scraping) e técnicas de ciência de dados.
 - Ambiente Mac OSX
 - Banco de dados não relacional
+
 Características Profissionais
 - Desenvoltura e objetividade comunicativa.
 - Trabalho centrado em transparência, confiabilidade e ética.
 - Iniciativa, não importa o cargo que esteja, eu sou o sujeito que recolhe um pedaço de papel “esquecido no chão”.
 - Flexibilidade comportamental e plasticidade cerebral para me adaptar a horários e funções.
 - Capacidade criativa e intuitiva para resolver problemas e encontrar soluções inovadoras.
+
 Últimos Cursos Realizados:
 - Desenvolvedor Multiplataforma.
 - Curso React + Redux.
@@ -63,8 +73,7 @@ Últimos Cursos Realizados:
 - React Profissional.
 - Web scraping com Python e Beautiful soup.
 - TensorFlow machine learning e deep learning. - Python scrap e captura de dados.
-
- - Curso Hábitos: da produtividade às metas pessoais .
+- Curso Hábitos: da produtividade às metas pessoais .
 - Lean Startup: Primeiros passos da sua startup enxuta .
 - Marketing digital: O primeiro passo antes de criar um site.
 - Curso Inbound marketing: Email marketing da segmentação ao AB .
@@ -91,6 +100,7 @@ Últimos Cursos Realizados:
 - MySQL I: Iniciando suas consultas .
 - Ruby II: Continuando seus primeiros passos na programação .
 - Ruby I: Introdução a lógica de programação com jogos .
+
 Possuo competências em:
 - Edição de vídeo.
 - Edição de imagens.
